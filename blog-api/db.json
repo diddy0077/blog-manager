@@ -1,0 +1,534 @@
+{
+  "posts": [
+    {
+      "title": "Why React is Still the King of Frontend Development in 2025",
+      "slug": "why-react-is-still-the-king-of-frontend-development-in-2025",
+      "excerpt": "Why React is Still the King of Frontend Development in 2025 - A quick overview of why this topic matters in modern web development.",
+      "content": "Why React is Still the King of Frontend Development in 2025 has become one of the most talked-about topics in 2025. In this article, we’ll dive into the details of why it matters and how you can use it in your projects.\n\nThe web development landscape is evolving rapidly, and developers must keep up with the latest trends. By understanding this concept, you’ll be better equipped to build scalable, maintainable applications.\n\nFinally, we’ll look at practical steps you can take today to improve your skills and apply these lessons in real-world projects.",
+      "author": "Sophia Lee",
+      "tags": [
+        "React",
+        "JavaScript",
+        "Frontend"
+      ],
+      "imageUrl": "https://niotechone.com/wp-content/uploads/2025/08/Why-React-Is-Still-The-Best-Front-End-Framework-In-2025-1536x560.jpg",
+      "createdAt": "2025-09-13T16:59:27.970Z",
+      "updatedAt": "2025-09-13T16:59:27.970Z",
+      "id": "1",
+      "comments": [
+        {
+          "id": 1757792135951,
+          "author": "Daniel Udeh",
+          "text": "I love React!",
+          "createdAt": "2025-09-13T19:35:35.951Z"
+        }
+      ]
+    },
+    {
+      "title": "The Rise of Server Components in React",
+      "slug": "the-rise-of-server-components-in-react",
+      "excerpt": "The Rise of Server Components in React - A quick overview of why this topic matters in modern web development.",
+      "content": "The Rise of Server Components in React has become one of the most talked-about topics in 2025. In this article, we’ll dive into the details of why it matters and how you can use it in your projects.\n\nThe web development landscape is evolving rapidly, and developers must keep up with the latest trends. By understanding this concept, you’ll be better equipped to build scalable, maintainable applications.\n\nFinally, we’ll look at practical steps you can take today to improve your skills and apply these lessons in real-world projects.",
+      "author": "Michael Brown",
+      "tags": [
+        "CSS",
+        "Design",
+        "UI"
+      ],
+      "imageUrl": "https://blog.logrocket.com/wp-content/uploads/2023/11/Client-side-rendering-graphic.png",
+      "createdAt": "2025-09-13T17:08:22.826Z",
+      "updatedAt": "2025-09-13T17:08:22.826Z",
+      "id": "2",
+      "comments": [
+        {
+          "id": 1757791221704,
+          "author": "Daniel",
+          "text": "I love this article!",
+          "createdAt": "2025-09-13T19:20:21.704Z"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Mastering JavaScript ES2025 Features",
+      "slug": "mastering-javascript-es2025-features",
+      "excerpt": "Mastering JavaScript ES2025 Features - A quick overview of why this topic matters in modern web development.",
+      "content": "Mastering JavaScript ES2025 Features has become one of the most talked-about topics in 2025. In this article, we’ll dive into the details of why it matters and how you can use it in your projects.\n\nThe web development landscape is evolving rapidly, and developers must keep up with the latest trends. By understanding this concept, you’ll be better equipped to build scalable, maintainable applications.\n\nFinally, we’ll look at practical steps you can take today to improve your skills and apply these lessons in real-world projects.",
+      "author": "Emily Davis",
+      "tags": [
+        "Testing",
+        "Best Practices"
+      ],
+      "imageUrl": "https://abdulkadersafi.com/storage/53/01JYVDB29XTV7CRK1RS4N8D9WB.png",
+      "createdAt": "2025-01-10T09:30:00Z",
+      "updatedAt": "2025-01-10T09:30:00Z",
+      "comments": []
+    },
+    {
+      "id": "4",
+      "title": "How to Build Scalable Frontend Architectures",
+      "slug": "how-to-build-scalable-frontend-architectures",
+      "excerpt": "How to Build Scalable Frontend Architectures - A quick overview of why this topic matters in modern web development.",
+      "content": "How to Build Scalable Frontend Architectures has become one of the most talked-about topics in 2025. In this article, we’ll dive into the details of why it matters and how you can use it in your projects.\n\nThe web development landscape is evolving rapidly, and developers must keep up with the latest trends. By understanding this concept, you’ll be better equipped to build scalable, maintainable applications.\n\nFinally, we’ll look at practical steps you can take today to improve your skills and apply these lessons in real-world projects.",
+      "author": "James Carter",
+      "tags": [
+        "Career",
+        "Portfolio"
+      ],
+      "imageUrl": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*WEvRwDZPUiHSb4JFsGVVbg.png",
+      "createdAt": "2025-01-10T09:30:00Z",
+      "updatedAt": "2025-01-10T09:30:00Z",
+      "comments": []
+    },
+    {
+      "id": "5",
+      "title": "The Importance of Accessibility in Modern Web Apps",
+      "slug": "the-importance-of-accessibility-in-modern-web-apps",
+      "excerpt": "The Importance of Accessibility in Modern Web Apps - A quick overview of why this topic matters in modern web development.",
+      "content": "The Importance of Accessibility in Modern Web Apps has become one of the most talked-about topics in 2025. In this article, we’ll dive into the details of why it matters and how you can use it in your projects.\n\nThe web development landscape is evolving rapidly, and developers must keep up with the latest trends. By understanding this concept, you’ll be better equipped to build scalable, maintainable applications.\n\nFinally, we’ll look at practical steps you can take today to improve your skills and apply these lessons in real-world projects.",
+      "author": "Daniel John",
+      "tags": [
+        "React",
+        "Frontend",
+        "JavaScript"
+      ],
+      "imageUrl": "https://img.pagecloud.com/GyQfuIwwzcz-aSoPvPtPN1V9aTg=/1600x0/filters:no_upscale()/web/images/blog-expert-tony-walby1x-ud2c6.png",
+      "createdAt": "2025-01-10T09:30:00Z",
+      "updatedAt": "2025-01-10T09:30:00Z",
+      "comments": []
+    },
+    {
+      "id": "6",
+      "title": "Optimizing Web Performance for 2025",
+      "slug": "optimizing-web-performance-for-2025",
+      "excerpt": "Optimizing Web Performance for 2025 - A quick overview of why this topic matters in modern web development.",
+      "content": "Optimizing Web Performance for 2025 has become one of the most talked-about topics in 2025. In this article, we’ll dive into the details of why it matters and how you can use it in your projects.\n\nThe web development landscape is evolving rapidly, and developers must keep up with the latest trends. By understanding this concept, you’ll be better equipped to build scalable, maintainable applications.\n\nFinally, we’ll look at practical steps you can take today to improve your skills and apply these lessons in real-world projects.",
+      "author": "Sophia Lee",
+      "tags": [
+        "APIs",
+        "Backend",
+        "Integration"
+      ],
+      "imageUrl": "https://www.inmotionhosting.com/blog/wp-content/uploads/2025/08/Why-You-Need-to-Backup-Your-Website-5-1024x538.png",
+      "createdAt": "2025-01-10T09:30:00Z",
+      "updatedAt": "2025-01-10T09:30:00Z",
+      "comments": []
+    },
+    {
+      "id": "7",
+      "title": "Understanding TypeScript for React Developers",
+      "slug": "understanding-typescript-for-react-developers",
+      "excerpt": "Understanding TypeScript for React Developers - A quick overview of why this topic matters in modern web development.",
+      "content": "Understanding TypeScript for React Developers has become one of the most talked-about topics in 2025. In this article, we’ll dive into the details of why it matters and how you can use it in your projects.\n\nThe web development landscape is evolving rapidly, and developers must keep up with the latest trends. By understanding this concept, you’ll be better equipped to build scalable, maintainable applications.\n\nFinally, we’ll look at practical steps you can take today to improve your skills and apply these lessons in real-world projects.",
+      "author": "Michael Brown",
+      "tags": [
+        "CSS",
+        "Design",
+        "UI"
+      ],
+      "imageUrl": "https://blog.logrocket.com/wp-content/uploads/2023/10/how-to-use-typescript-react-tutorial-examples.png",
+      "createdAt": "2025-01-10T09:30:00Z",
+      "updatedAt": "2025-01-10T09:30:00Z",
+      "comments": []
+    },
+    {
+      "id": "8",
+      "title": "API Integration Best Practices",
+      "slug": "api-integration-best-practices",
+      "excerpt": "API Integration Best Practices - A quick overview of why this topic matters in modern web development.",
+      "content": "API Integration Best Practices has become one of the most talked-about topics in 2025. In this article, we’ll dive into the details of why it matters and how you can use it in your projects.\n\nThe web development landscape is evolving rapidly, and developers must keep up with the latest trends. By understanding this concept, you’ll be better equipped to build scalable, maintainable applications.\n\nFinally, we’ll look at practical steps you can take today to improve your skills and apply these lessons in real-world projects.",
+      "author": "Emily Davis",
+      "tags": [
+        "Testing",
+        "Best Practices",
+        "APIs"
+      ],
+      "imageUrl": "https://blog.remita.net/wp-content/uploads/2024/12/API-Integration-setup-scaled-1-1920x1024.jpg",
+      "createdAt": "2025-01-10T09:30:00Z",
+      "updatedAt": "2025-01-10T09:30:00Z",
+      "comments": []
+    },
+    {
+      "id": "9",
+      "title": "State Management: Redux vs Context vs Zustand",
+      "slug": "state-management:-redux-vs-context-vs-zustand",
+      "excerpt": "State Management: Redux vs Context vs Zustand - A quick overview of why this topic matters in modern web development.",
+      "content": "State Management: Redux vs Context vs Zustand has become one of the most talked-about topics in 2025. In this article, we’ll dive into the details of why it matters and how you can use it in your projects.\n\nThe web development landscape is evolving rapidly, and developers must keep up with the latest trends. By understanding this concept, you’ll be better equipped to build scalable, maintainable applications.\n\nFinally, we’ll look at practical steps you can take today to improve your skills and apply these lessons in real-world projects.",
+      "author": "James Carter",
+      "tags": [
+        "Frontend",
+        "React"
+      ],
+      "imageUrl": "https://media.licdn.com/dms/image/v2/D5612AQGSYIdr8uamdQ/article-cover_image-shrink_720_1280/B56ZWQrPzjGoAI-/0/1741889011725?e=2147483647&v=beta&t=Z20Te4LbdYL60j9DEGHQ3nIx9lwK7fH9X2zecto8P7I",
+      "createdAt": "2025-01-10T09:30:00Z",
+      "updatedAt": "2025-01-10T09:30:00Z",
+      "comments": []
+    },
+    {
+      "id": "10",
+      "title": "Why Tailwind CSS Took Over Modern Styling",
+      "slug": "why-tailwind-css-took-over-modern-styling",
+      "excerpt": "Why Tailwind CSS Took Over Modern Styling - A quick overview of why this topic matters in modern web development.",
+      "content": "Why Tailwind CSS Took Over Modern Styling has become one of the most talked-about topics in 2025. In this article, we’ll dive into the details of why it matters and how you can use it in your projects.\n\nThe web development landscape is evolving rapidly, and developers must keep up with the latest trends. By understanding this concept, you’ll be better equipped to build scalable, maintainable applications.\n\nFinally, we’ll look at practical steps you can take today to improve your skills and apply these lessons in real-world projects.",
+      "author": "Daniel John",
+      "tags": [
+        "React",
+        "Frontend",
+        "JavaScript"
+      ],
+      "imageUrl": "https://b4130876.smushcdn.com/4130876/wp-content/uploads/2025/03/Mastering-Tailwind-CSS-How-It-Works-Why-Its-Powerful-1.webp?lossy=2&strip=1&webp=1",
+      "createdAt": "2025-01-10T09:30:00Z",
+      "updatedAt": "2025-01-10T09:30:00Z",
+      "comments": []
+    },
+    {
+      "id": "11",
+      "title": "Top 10 Mistakes Junior Developers Make",
+      "slug": "top-10-mistakes-junior-developers-make",
+      "excerpt": "Top 10 Mistakes Junior Developers Make - A quick overview of why this topic matters in modern web development.",
+      "content": "Top 10 Mistakes Junior Developers Make has become one of the most talked-about topics in 2025. In this article, we’ll dive into the details of why it matters and how you can use it in your projects.\n\nThe web development landscape is evolving rapidly, and developers must keep up with the latest trends. By understanding this concept, you’ll be better equipped to build scalable, maintainable applications.\n\nFinally, we’ll look at practical steps you can take today to improve your skills and apply these lessons in real-world projects.",
+      "author": "Sophia Lee",
+      "tags": [
+        "APIs",
+        "Backend",
+        "Integration"
+      ],
+      "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbkhml1iuah7nt4is2wwr.jpeg",
+      "createdAt": "2025-01-10T09:30:00Z",
+      "updatedAt": "2025-01-10T09:30:00Z",
+      "comments": []
+    },
+    {
+      "id": "12",
+      "title": "The Future of Progressive Web Apps (PWAs)",
+      "slug": "the-future-of-progressive-web-apps-(pwas)",
+      "excerpt": "The Future of Progressive Web Apps (PWAs) - A quick overview of why this topic matters in modern web development.",
+      "content": "The Future of Progressive Web Apps (PWAs) has become one of the most talked-about topics in 2025. In this article, we’ll dive into the details of why it matters and how you can use it in your projects.\n\nThe web development landscape is evolving rapidly, and developers must keep up with the latest trends. By understanding this concept, you’ll be better equipped to build scalable, maintainable applications.\n\nFinally, we’ll look at practical steps you can take today to improve your skills and apply these lessons in real-world projects.",
+      "author": "Michael Brown",
+      "tags": [
+        "CSS",
+        "Design",
+        "UI"
+      ],
+      "imageUrl": "https://www.hostafrica.ng/wp-content/uploads/2024/02/PWA-Featured-Image-760x380.png",
+      "createdAt": "2025-01-10T09:30:00Z",
+      "updatedAt": "2025-01-10T09:30:00Z",
+      "comments": []
+    },
+    {
+      "id": "13",
+      "title": "How to Prepare for a Frontend Job Interview",
+      "slug": "how-to-prepare-for-a-frontend-job-interview",
+      "excerpt": "How to Prepare for a Frontend Job Interview - A quick overview of why this topic matters in modern web development.",
+      "content": "How to Prepare for a Frontend Job Interview has become one of the most talked-about topics in 2025. In this article, we’ll dive into the details of why it matters and how you can use it in your projects.\n\nThe web development landscape is evolving rapidly, and developers must keep up with the latest trends. By understanding this concept, you’ll be better equipped to build scalable, maintainable applications.\n\nFinally, we’ll look at practical steps you can take today to improve your skills and apply these lessons in real-world projects.",
+      "author": "Emily Davis",
+      "tags": [
+        "Testing",
+        "Best Practices"
+      ],
+      "imageUrl": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*ugP08lwTP3nO-qM8cMJX2w.png",
+      "createdAt": "2025-01-10T09:30:00Z",
+      "updatedAt": "2025-01-10T09:30:00Z",
+      "comments": []
+    },
+    {
+      "id": "14",
+      "title": "UI/UX Trends Every Developer Should Know",
+      "slug": "ui/ux-trends-every-developer-should-know",
+      "excerpt": "UI/UX Trends Every Developer Should Know - A quick overview of why this topic matters in modern web development.",
+      "content": "UI/UX Trends Every Developer Should Know has become one of the most talked-about topics in 2025. In this article, we’ll dive into the details of why it matters and how you can use it in your projects.\n\nThe web development landscape is evolving rapidly, and developers must keep up with the latest trends. By understanding this concept, you’ll be better equipped to build scalable, maintainable applications.\n\nFinally, we’ll look at practical steps you can take today to improve your skills and apply these lessons in real-world projects.",
+      "author": "James Carter",
+      "tags": [
+        "Career",
+        "Portfolio"
+      ],
+      "imageUrl": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*CaqnGBOA9sKXyOI6qL46Mw.png",
+      "createdAt": "2025-01-10T09:30:00Z",
+      "updatedAt": "2025-01-10T09:30:00Z",
+      "comments": []
+    },
+    {
+      "id": "15",
+      "title": "Why Testing is Crucial for Frontend Applications",
+      "slug": "why-testing-is-crucial-for-frontend-applications",
+      "excerpt": "Why Testing is Crucial for Frontend Applications - A quick overview of why this topic matters in modern web development.",
+      "content": "Why Testing is Crucial for Frontend Applications has become one of the most talked-about topics in 2025. In this article, we’ll dive into the details of why it matters and how you can use it in your projects.\n\nThe web development landscape is evolving rapidly, and developers must keep up with the latest trends. By understanding this concept, you’ll be better equipped to build scalable, maintainable applications.\n\nFinally, we’ll look at practical steps you can take today to improve your skills and apply these lessons in real-world projects.",
+      "author": "Daniel John",
+      "tags": [
+        "React",
+        "Frontend",
+        "JavaScript"
+      ],
+      "imageUrl": "https://b4130876.smushcdn.com/4130876/wp-content/uploads/2024/04/A-Complete-Guide-to-Front-End-Testing-With-7-Best-Practices.png?size=640x311&lossy=2&strip=1&webp=1",
+      "createdAt": "2025-01-10T09:30:00Z",
+      "updatedAt": "2025-01-10T09:30:00Z",
+      "comments": []
+    },
+    {
+      "id": "16",
+      "title": "Exploring GraphQL in Frontend Development",
+      "slug": "exploring-graphql-in-frontend-development",
+      "excerpt": "Exploring GraphQL in Frontend Development - A quick overview of why this topic matters in modern web development.",
+      "content": "Exploring GraphQL in Frontend Development has become one of the most talked-about topics in 2025. In this article, we’ll dive into the details of why it matters and how you can use it in your projects.\n\nThe web development landscape is evolving rapidly, and developers must keep up with the latest trends. By understanding this concept, you’ll be better equipped to build scalable, maintainable applications.\n\nFinally, we’ll look at practical steps you can take today to improve your skills and apply these lessons in real-world projects.",
+      "author": "Sophia Lee",
+      "tags": [
+        "APIs",
+        "Backend",
+        "Integration"
+      ],
+      "imageUrl": "https://www.freecodecamp.org/news/content/images/size/w2000/2021/10/Getting-Started-in-GraphQL-for-front-end-developers--1-.png",
+      "createdAt": "2025-01-10T09:30:00Z",
+      "updatedAt": "2025-01-10T09:30:00Z",
+      "comments": []
+    },
+    {
+      "id": "17",
+      "title": "The Role of AI in Web Development",
+      "slug": "the-role-of-ai-in-web-development",
+      "excerpt": "The Role of AI in Web Development - A quick overview of why this topic matters in modern web development.",
+      "content": "The Role of AI in Web Development has become one of the most talked-about topics in 2025. In this article, we’ll dive into the details of why it matters and how you can use it in your projects.\n\nThe web development landscape is evolving rapidly, and developers must keep up with the latest trends. By understanding this concept, you’ll be better equipped to build scalable, maintainable applications.\n\nFinally, we’ll look at practical steps you can take today to improve your skills and apply these lessons in real-world projects.",
+      "author": "Michael Brown",
+      "tags": [
+        "CSS",
+        "Design",
+        "UI"
+      ],
+      "imageUrl": "https://b4130876.smushcdn.com/4130876/wp-content/uploads/2023/08/How-to-Use-AI-in-Web-Development.webp?size=640x311&lossy=2&strip=1&webp=1",
+      "createdAt": "2025-01-10T09:30:00Z",
+      "updatedAt": "2025-01-10T09:30:00Z",
+      "comments": []
+    },
+    {
+      "id": "18",
+      "title": "React vs Vue vs Angular in 2025",
+      "slug": "react-vs-vue-vs-angular-in-2025",
+      "excerpt": "React vs Vue vs Angular in 2025 - A quick overview of why this topic matters in modern web development.",
+      "content": "React vs Vue vs Angular in 2025 has become one of the most talked-about topics in 2025. In this article, we’ll dive into the details of why it matters and how you can use it in your projects.\n\nThe web development landscape is evolving rapidly, and developers must keep up with the latest trends. By understanding this concept, you’ll be better equipped to build scalable, maintainable applications.\n\nFinally, we’ll look at practical steps you can take today to improve your skills and apply these lessons in real-world projects.",
+      "author": "Emily Davis",
+      "tags": [
+        "Testing",
+        "Best Practices"
+      ],
+      "imageUrl": "https://www.8seneca.com/_next/image?url=https%3A%2F%2Fblog.8seneca.com%2Fwp-content%2Fuploads%2F2025%2F03%2Fimage-2.png&w=640&q=75",
+      "createdAt": "2025-01-10T09:30:00Z",
+      "updatedAt": "2025-01-10T09:30:00Z",
+      "comments": []
+    },
+    {
+      "id": "19",
+      "title": "Deploying Your React App Like a Pro",
+      "slug": "deploying-your-react-app-like-a-pro",
+      "excerpt": "Deploying Your React App Like a Pro - A quick overview of why this topic matters in modern web development.",
+      "content": "Deploying Your React App Like a Pro has become one of the most talked-about topics in 2025. In this article, we’ll dive into the details of why it matters and how you can use it in your projects.\n\nThe web development landscape is evolving rapidly, and developers must keep up with the latest trends. By understanding this concept, you’ll be better equipped to build scalable, maintainable applications.\n\nFinally, we’ll look at practical steps you can take today to improve your skills and apply these lessons in real-world projects.",
+      "author": "James Carter",
+      "tags": [
+        "Career",
+        "Portfolio"
+      ],
+      "imageUrl": "https://blog.openreplay.com/images/deploying-your-react-app-with-zero-cost/images/hero.png",
+      "createdAt": "2025-01-10T09:30:00Z",
+      "updatedAt": "2025-01-10T09:30:00Z",
+      "comments": []
+    },
+    {
+      "id": "20",
+      "title": "Working with REST APIs: A Complete Guide",
+      "slug": "working-with-rest-apis:-a-complete-guide",
+      "excerpt": "Working with REST APIs: A Complete Guide - A quick overview of why this topic matters in modern web development.",
+      "content": "Working with REST APIs: A Complete Guide has become one of the most talked-about topics in 2025. In this article, we’ll dive into the details of why it matters and how you can use it in your projects.\n\nThe web development landscape is evolving rapidly, and developers must keep up with the latest trends. By understanding this concept, you’ll be better equipped to build scalable, maintainable applications.\n\nFinally, we’ll look at practical steps you can take today to improve your skills and apply these lessons in real-world projects.",
+      "author": "Daniel John",
+      "tags": [
+        "React",
+        "Frontend",
+        "JavaScript"
+      ],
+      "imageUrl": "https://www.freecodecamp.org/news/content/images/size/w2000/2022/03/The-Complete-Guide-to-Understanding-and-Using-REST-APIs.png",
+      "createdAt": "2025-01-10T09:30:00Z",
+      "updatedAt": "2025-01-10T09:30:00Z",
+      "comments": []
+    },
+    {
+      "id": "21",
+      "title": "How to Build a Portfolio That Gets You Hired",
+      "slug": "how-to-build-a-portfolio-that-gets-you-hired",
+      "excerpt": "How to Build a Portfolio That Gets You Hired - A quick overview of why this topic matters in modern web development.",
+      "content": "How to Build a Portfolio That Gets You Hired has become one of the most talked-about topics in 2025. In this article, we’ll dive into the details of why it matters and how you can use it in your projects.\n\nThe web development landscape is evolving rapidly, and developers must keep up with the latest trends. By understanding this concept, you’ll be better equipped to build scalable, maintainable applications.\n\nFinally, we’ll look at practical steps you can take today to improve your skills and apply these lessons in real-world projects.",
+      "author": "Sophia Lee",
+      "tags": [
+        "APIs",
+        "Backend",
+        "Integration"
+      ],
+      "imageUrl": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*vXZOm3XBhLTaJU_ARoGuHw.png",
+      "createdAt": "2025-01-10T09:30:00Z",
+      "updatedAt": "2025-01-10T09:30:00Z",
+      "comments": []
+    },
+    {
+      "id": "22",
+      "title": "Understanding Micro-Frontends",
+      "slug": "understanding-micro-frontends",
+      "excerpt": "Understanding Micro-Frontends - A quick overview of why this topic matters in modern web development.",
+      "content": "Understanding Micro-Frontends has become one of the most talked-about topics in 2025. In this article, we’ll dive into the details of why it matters and how you can use it in your projects.\n\nThe web development landscape is evolving rapidly, and developers must keep up with the latest trends. By understanding this concept, you’ll be better equipped to build scalable, maintainable applications.\n\nFinally, we’ll look at practical steps you can take today to improve your skills and apply these lessons in real-world projects.",
+      "author": "Michael Brown",
+      "tags": [
+        "CSS",
+        "Design",
+        "UI"
+      ],
+      "imageUrl": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*SikDA01MOamTWMa-fOpZgA.gif",
+      "createdAt": "2025-01-10T09:30:00Z",
+      "updatedAt": "2025-01-10T09:30:00Z",
+      "comments": []
+    },
+    {
+      "id": "23",
+      "title": "Dark Mode: Best Practices in 2025",
+      "slug": "dark-mode:-best-practices-in-2025",
+      "excerpt": "Dark Mode: Best Practices in 2025 - A quick overview of why this topic matters in modern web development.",
+      "content": "Dark Mode: Best Practices in 2025 has become one of the most talked-about topics in 2025. In this article, we’ll dive into the details of why it matters and how you can use it in your projects.\n\nThe web development landscape is evolving rapidly, and developers must keep up with the latest trends. By understanding this concept, you’ll be better equipped to build scalable, maintainable applications.\n\nFinally, we’ll look at practical steps you can take today to improve your skills and apply these lessons in real-world projects.",
+      "author": "Emily Davis",
+      "tags": [
+        "Testing",
+        "Best Practices"
+      ],
+      "imageUrl": "https://cdn.prod.website-files.com/64e895a2f8733943c6d0ddef/67bee1bc93f63ad976e8616f_best_dark_mode_ui_design_examples_and_best_practices_in_2025_main_image-p-1080.webp",
+      "createdAt": "2025-01-10T09:30:00Z",
+      "updatedAt": "2025-01-10T09:30:00Z",
+      "comments": []
+    },
+    {
+      "id": "24",
+      "title": "The Future of CSS: Container Queries & Beyond",
+      "slug": "the-future-of-css:-container-queries-&-beyond",
+      "excerpt": "The Future of CSS: Container Queries & Beyond - A quick overview of why this topic matters in modern web development.",
+      "content": "The Future of CSS: Container Queries & Beyond has become one of the most talked-about topics in 2025. In this article, we’ll dive into the details of why it matters and how you can use it in your projects.\n\nThe web development landscape is evolving rapidly, and developers must keep up with the latest trends. By understanding this concept, you’ll be better equipped to build scalable, maintainable applications.\n\nFinally, we’ll look at practical steps you can take today to improve your skills and apply these lessons in real-world projects.",
+      "author": "James Carter",
+      "tags": [
+        "Career",
+        "Portfolio"
+      ],
+      "imageUrl": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*ZEQ62Jy9cR0IXQCY0mjPmA.png",
+      "createdAt": "2025-01-10T09:30:00Z",
+      "updatedAt": "2025-01-10T09:30:00Z",
+      "comments": []
+    },
+    {
+      "id": "25",
+      "title": "Using Firebase in Your React Projects",
+      "slug": "using-firebase-in-your-react-projects",
+      "excerpt": "Using Firebase in Your React Projects - A quick overview of why this topic matters in modern web development.",
+      "content": "Using Firebase in Your React Projects has become one of the most talked-about topics in 2025. In this article, we’ll dive into the details of why it matters and how you can use it in your projects.\n\nThe web development landscape is evolving rapidly, and developers must keep up with the latest trends. By understanding this concept, you’ll be better equipped to build scalable, maintainable applications.\n\nFinally, we’ll look at practical steps you can take today to improve your skills and apply these lessons in real-world projects.",
+      "author": "Daniel John",
+      "tags": [
+        "React",
+        "Frontend",
+        "JavaScript"
+      ],
+      "imageUrl": "https://blog.logrocket.com/wp-content/uploads/2020/03/react-firebase-console-dashboard.png",
+      "createdAt": "2025-01-10T09:30:00Z",
+      "updatedAt": "2025-01-10T09:30:00Z",
+      "comments": []
+    },
+    {
+      "id": "26",
+      "title": "Debugging Like a Senior Developer",
+      "slug": "debugging-like-a-senior-developer",
+      "excerpt": "Debugging Like a Senior Developer - A quick overview of why this topic matters in modern web development.",
+      "content": "Debugging Like a Senior Developer has become one of the most talked-about topics in 2025. In this article, we’ll dive into the details of why it matters and how you can use it in your projects.\n\nThe web development landscape is evolving rapidly, and developers must keep up with the latest trends. By understanding this concept, you’ll be better equipped to build scalable, maintainable applications.\n\nFinally, we’ll look at practical steps you can take today to improve your skills and apply these lessons in real-world projects.",
+      "author": "Sophia Lee",
+      "tags": [
+        "APIs",
+        "Backend",
+        "Integration"
+      ],
+      "imageUrl": "https://miro.medium.com/v2/resize:fit:720/format:webp/0*jAg-1j9m8Kk_an2i",
+      "createdAt": "2025-01-10T09:30:00Z",
+      "updatedAt": "2025-01-10T09:30:00Z",
+      "comments": []
+    },
+    {
+      "id": "27",
+      "title": "Building Responsive Layouts with Flexbox & Grid",
+      "slug": "building-responsive-layouts-with-flexbox-&-grid",
+      "excerpt": "Building Responsive Layouts with Flexbox & Grid - A quick overview of why this topic matters in modern web development.",
+      "content": "Building Responsive Layouts with Flexbox & Grid has become one of the most talked-about topics in 2025. In this article, we’ll dive into the details of why it matters and how you can use it in your projects.\n\nThe web development landscape is evolving rapidly, and developers must keep up with the latest trends. By understanding this concept, you’ll be better equipped to build scalable, maintainable applications.\n\nFinally, we’ll look at practical steps you can take today to improve your skills and apply these lessons in real-world projects.",
+      "author": "Michael Brown",
+      "tags": [
+        "CSS",
+        "Design",
+        "UI"
+      ],
+      "imageUrl": "https://blog.logrocket.com/wp-content/uploads/2020/04/css-flexbox-vs-css-grid.png",
+      "createdAt": "2025-01-10T09:30:00Z",
+      "updatedAt": "2025-01-10T09:30:00Z",
+      "comments": []
+    },
+    {
+      "id": "28",
+      "title": "Why Soft Skills Matter in Tech",
+      "slug": "why-soft-skills-matter-in-tech",
+      "excerpt": "Why Soft Skills Matter in Tech - A quick overview of why this topic matters in modern web development.",
+      "content": "Why Soft Skills Matter in Tech has become one of the most talked-about topics in 2025. In this article, we’ll dive into the details of why it matters and how you can use it in your projects.\n\nThe web development landscape is evolving rapidly, and developers must keep up with the latest trends. By understanding this concept, you’ll be better equipped to build scalable, maintainable applications.\n\nFinally, we’ll look at practical steps you can take today to improve your skills and apply these lessons in real-world projects.",
+      "author": "Emily Davis",
+      "tags": [
+        "Testing",
+        "Best Practices"
+      ],
+      "imageUrl": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*N3xlzVBezC-a9cqmVEo1Eg.png",
+      "createdAt": "2025-01-10T09:30:00Z",
+      "updatedAt": "2025-01-10T09:30:00Z",
+      "comments": []
+    },
+    {
+      "id": "29",
+      "title": "The Role of Open Source in Web Development",
+      "slug": "the-role-of-open-source-in-web-development",
+      "excerpt": "The Role of Open Source in Web Development - A quick overview of why this topic matters in modern web development.",
+      "content": "The Role of Open Source in Web Development has become one of the most talked-about topics in 2025. In this article, we’ll dive into the details of why it matters and how you can use it in your projects.\n\nThe web development landscape is evolving rapidly, and developers must keep up with the latest trends. By understanding this concept, you’ll be better equipped to build scalable, maintainable applications.\n\nFinally, we’ll look at practical steps you can take today to improve your skills and apply these lessons in real-world projects.",
+      "author": "James Carter",
+      "tags": [
+        "Career",
+        "Portfolio"
+      ],
+      "imageUrl": "https://cdn-cjmik.nitrocdn.com/UjszoEMIGzQLBmRYICliaPmdTnvQlovN/assets/images/optimized/rev-8428f05/www.aalpha.net/wp-content/uploads/2021/04/Open-Source-Development.png",
+      "createdAt": "2025-01-10T09:30:00Z",
+      "updatedAt": "2025-01-10T09:30:00Z",
+      "comments": []
+    },
+    {
+      "id": "30",
+      "title": "Next.js 15: Everything You Need to Know",
+      "slug": "next.js-15:-everything-you-need-to-know",
+      "excerpt": "Next.js 15: Everything You Need to Know - A quick overview of why this topic matters in modern web development.",
+      "content": "Next.js 15: Everything You Need to Know has become one of the most talked-about topics in 2025. In this article, we’ll dive into the details of why it matters and how you can use it in your projects.\n\nThe web development landscape is evolving rapidly, and developers must keep up with the latest trends. By understanding this concept, you’ll be better equipped to build scalable, maintainable applications.\n\nFinally, we’ll look at practical steps you can take today to improve your skills and apply these lessons in real-world projects.",
+      "author": "Daniel John",
+      "tags": [
+        "React",
+        "Frontend",
+        "JavaScript"
+      ],
+      "imageUrl": "https://imagedelivery.net/lLmNeOP7HXG0OqaG97wimw/cluqyx1rl0000l5ds3f0vkfer/79b4e6f2-a6c2-42fe-b705-69475f630ed1.png/public",
+      "createdAt": "2025-01-10T09:30:00Z",
+      "updatedAt": "2025-01-10T09:30:00Z",
+      "comments": []
+    },
+    {
+      "id": 1757790438460,
+      "title": "Hello world",
+      "slug": "slugslugslug",
+      "excerpt": "dhjaakdddddddygukvkkkkkkkkkkkkkkvuaeeeeeeeeeeeeaddddddddddddddddddddddde",
+      "content": "aweyvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv",
+      "author": "Daniel udeh",
+      "tags": [
+        "java",
+        "swift",
+        "python"
+      ],
+      "imageUrl": "https://source.unsplash.com/random/800x400?sig=10&technology",
+      "createdAt": "2025-09-13T19:07:16.874Z",
+      "updatedAt": "2025-09-13T19:07:16.874Z",
+      "comments": []
+    }
+  ]
+}
