@@ -71,7 +71,9 @@ function SinglePosts() {
   }
 
   if (loading) {
-    return <p>Loading...</p>
+    return <div className='bg-gradient-to-r from-indigo-600 via-purple-600 to-pink-600 h-screen flex items-center justify-center'>
+              <div className='w-15 h-15 border border-white rounded-full border-t-transparent animate-spin border-3'></div>
+           </div>
   }
 
   return (
