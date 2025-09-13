@@ -30,7 +30,7 @@
 ## 📸 Screenshots
 Home | Posts Page
 :-------------------------:|:-------------------------:
-![Home Page](screenshots/blogmanager.png) | ![Posts Page](screenshots/blogpage.png)
+![Home Page](./public/screenshots/blogmanager.png) | ![Posts Page](./public/screenshots/blogpage.png)
 
 ---
 
