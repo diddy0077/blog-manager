@@ -28,6 +28,13 @@
 
 ---
 
+## 📸 Screenshots
+Light Mode | Dark Mode
+:-------------------------:|:-------------------------:
+![Home Page](blogmanager.png) | ![Posts Page](blogpage.png)
+
+---
+
 ## Tech Stack
 - **Frontend:** React, React Router DOM, Tailwind CSS  
 - **Backend (Mock API):** JSON Server (hosted on Render)  
@@ -99,3 +106,5 @@ Contributions are welcome! Please:
 ## License
 
 This project is open source and available under the MIT License.
+
+💡 *Built with passion to showcase frontend skills and create a professional portfolio project.*
