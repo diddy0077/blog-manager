@@ -128,7 +128,7 @@ function EditPostPage() {
                 onChange={(e) => setContent(e.target.value)}
                 rows="6"
                 placeholder="Write your full post here..."
-                className="w-full p-3 rounded-lg bg-white/20 text-white placeholder-white/70 focus:outline-none focus:ring-2 focus:ring-yellow-300"
+                className="w-full p-3 rounded-lg bg-white/20 text-white placeholder-white/70 focus:outline-none focus:ring-2 focus:ring-yellow-300 scrollbar-hide"
               />
             </div>
 
