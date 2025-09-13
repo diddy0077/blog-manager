@@ -1,6 +1,5 @@
 # BlogManager
 
-![BlogManager Banner](https://source.unsplash.com/1200x400/?technology,blog)
 
 **BlogManager** is a modern blogging platform built with **React**, **Tailwind CSS**, and **Vite**, with a mock backend powered by **JSON Server**. It allows developers to create, manage, read blog posts with ease and also comment on a post.
 
@@ -29,9 +28,9 @@
 ---
 
 ## 📸 Screenshots
-Light Mode | Dark Mode
+Home | Posts Page
 :-------------------------:|:-------------------------:
-![Home Page](blogmanager.png) | ![Posts Page](blogpage.png)
+![Home Page](screenshots/blogmanager.png) | ![Posts Page](screenshots/blogpage.png)
 
 ---
 
