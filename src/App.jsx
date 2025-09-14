@@ -44,8 +44,8 @@ function App() {
         <Route path='/' element={<Layout />}>
           <Route index element={<HomePage posts={posts} setPosts={setPosts} loading={loading} />} />
           <Route path='posts' element={<PostsPage posts={posts} loading={loading} />} />
-          <Route path='posts/:slug' element={<SinglePosts />} />
-          <Route path='add-post' element={<AddPostPage />} />
+          <Route path='posts/:slug' element={<SinglePosts setPosts={setPosts}/>} />
+          <Route path='add-post' element={<AddPostPage setPosts={setPosts}/>} />
           <Route path='edit-post/:slug' element={<EditPostPage />} />
           <Route path='about' element={<AboutPage />} />
         </Route>

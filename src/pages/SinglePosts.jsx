@@ -4,7 +4,7 @@ import { ArrowLeft } from 'lucide-react'
 import { toast } from 'react-toastify'
 import { useNavigate } from 'react-router-dom'
 
-function SinglePosts() {
+function SinglePosts({setPosts}) {
   const { slug } = useParams()
   const [post, setPost] = useState({})
   const [loading, setLoading] = useState(false)
@@ -61,6 +61,7 @@ function SinglePosts() {
       }
       })
       .then(() => {
+        setPosts((prevPosts) => prevPosts.filter((post) => post.id !== post.id));
         toast.success('Job deleted Successfully')
          nav('/posts')
       })
@@ -112,7 +113,7 @@ function SinglePosts() {
 
     {/* Post Content */}
     <article className="prose prose-invert max-w-3xl mx-auto text-white/90 mb-12">
-            <p>{post.content}</p>
+            <p className=''>{post.content}</p>
       {/* You can inject the rest of the content dynamically here */}
     </article>
 

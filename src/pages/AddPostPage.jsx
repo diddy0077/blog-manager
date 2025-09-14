@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { toast } from 'react-toastify';
 import { useNavigate } from "react-router-dom";
 
-function AddPostPage() {
+function AddPostPage({setPosts}) {
   const [title, setTitle] = useState('')
   const [slug, setSlug] = useState('')
   const [excerpt, setExcerpt] = useState('')
@@ -10,38 +10,48 @@ function AddPostPage() {
   const [content, setContent] = useState('')
   const [author, setAuthor] = useState('')
   const [tags, setTags] = useState('')
-  const now = new Date().toISOString()
   const nav = useNavigate()
 
   const tagsArray = tags.split(',').map((tag) => tag.trim())
 
-  const handleSubmit = (e) => {
-   e.preventDefault()
-   if(!title || !slug || !excerpt || !imageUrl || !content || !author || !tags) return
-      const newPost = {
-  id: Date.now(), // or json-server will auto-generate if you don't include
-  title,
-  slug,
-  excerpt,
-  content,
-  author,
-  tags: tagsArray,
-  imageUrl,
-  createdAt: now,
-  updatedAt: now,
-  comments: []
-    }
-    fetch('https://blogpost-server-se8d.onrender.com/posts', {method: 'POST', header: {"Content-Type": "application/json",
-    }, body: JSON.stringify(newPost),
-    })
-      .then((res) => {
-      return res.json()
+ const handleSubmit = (e) => {
+  e.preventDefault();
+
+  if (!title || !slug || !excerpt || !imageUrl || !content || !author || !tags || tags.length === 0) return;
+
+  const now = new Date().toISOString();
+
+  const newPost = {
+    id: Date.now(),
+    title,
+    slug,
+    excerpt,
+    content,
+    author,
+    tags: tagsArray,
+    imageUrl,
+    createdAt: now,
+    updatedAt: now,
+    comments: [],
+  };
+
+  fetch('https://blogpost-server-se8d.onrender.com/posts', {
+    method: 'POST',
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify(newPost),
+  })
+    .then((res) => res.json())
+    .then((data) => {
+      console.log(data);
+      setPosts((prev) => {
+        return [...prev, newPost]
       })
-      .then((data) => console.log(data))
-      .catch((err) => console.log('Error adding post', err))
-    toast.success('Post Added Successfully')
-   nav('/posts')
- }
+      toast.success('Post Added Successfully');
+      nav('/posts');
+    })
+    .catch((err) => console.log('Error adding post', err));
+};
+
 
   
  

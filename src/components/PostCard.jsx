@@ -26,19 +26,12 @@ function PostCard({post, toggle, setToggle, color}) {
           </h3>
 
           <p className="text-sm text-gray-600 mb-3">
-            {toggle
-              ? post.excerpt
-              : post.excerpt.slice(0, 70) + "..."}
+           {post.excerpt}
           </p>
 
-          <button
-            onClick={() => setToggle((prev) => !prev)}
-            className="text-sm font-medium text-indigo-600 hover:text-indigo-800 transition"
-          >
-            {toggle ? "View Less" : "View More"}
-          </button>
+          
 
-          <div className="flex justify-between items-center text-xs text-gray-500 mt-4 mb-4">
+          <div className="flex justify-between items-center text-xs text-gray-500 mt-10 mb-4">
             <span className="font-medium">{post.author}</span>
             <span>{new Date(post.createdAt).toDateString()}</span>
           </div>

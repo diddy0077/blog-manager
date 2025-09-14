@@ -514,20 +514,20 @@
       "comments": []
     },
     {
-      "id": 1757790438460,
-      "title": "Hello world",
-      "slug": "slugslugslug",
-      "excerpt": "dhjaakdddddddygukvkkkkkkkkkkkkkkvuaeeeeeeeeeeeeaddddddddddddddddddddddde",
-      "content": "aweyvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv",
-      "author": "Daniel udeh",
+      "id": "30",
+      "title": "Next.js 15: Everything You Need to Know",
+      "slug": "next.js-15:-everything-you-need-to-know",
+      "excerpt": "Next.js 15: Everything You Need to Know - A quick overview of why this topic matters in modern web development.",
+      "content": "Next.js 15: Everything You Need to Know has become one of the most talked-about topics in 2025. In this article, we’ll dive into the details of why it matters and how you can use it in your projects.\n\nThe web development landscape is evolving rapidly, and developers must keep up with the latest trends. By understanding this concept, you’ll be better equipped to build scalable, maintainable applications.\n\nFinally, we’ll look at practical steps you can take today to improve your skills and apply these lessons in real-world projects.",
+      "author": "Daniel John",
       "tags": [
-        "java",
-        "swift",
-        "python"
+        "React",
+        "Frontend",
+        "JavaScript"
       ],
-      "imageUrl": "https://source.unsplash.com/random/800x400?sig=10&technology",
-      "createdAt": "2025-09-13T19:07:16.874Z",
-      "updatedAt": "2025-09-13T19:07:16.874Z",
+      "imageUrl": "https://imagedelivery.net/lLmNeOP7HXG0OqaG97wimw/cluqyx1rl0000l5ds3f0vkfer/79b4e6f2-a6c2-42fe-b705-69475f630ed1.png/public",
+      "createdAt": "2025-01-10T09:30:00Z",
+      "updatedAt": "2025-01-10T09:30:00Z",
       "comments": []
     }
   ]
