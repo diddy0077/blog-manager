@@ -44,7 +44,7 @@ function AddPostPage({setPosts}) {
     .then((data) => {
       console.log(data);
       setPosts((prev) => {
-        return [...prev, newPost]
+        return [...prev, data]
       })
       toast.success('Post Added Successfully');
       nav('/posts');
