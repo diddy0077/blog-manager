@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { toast } from 'react-toastify';
-import { useNavigate } from "react-router-dom";
+import { useNavigate,Link } from "react-router-dom";
 
 function AddPostPage({setPosts}) {
   const [title, setTitle] = useState('')
@@ -164,12 +164,12 @@ function AddPostPage({setPosts}) {
 
             {/* Buttons */}
             <div className="flex gap-4 justify-end">
-              <button
-                type="button"
+              <Link
+                to='/'
                 className="px-6 py-3 bg-white/20 text-white rounded-lg font-semibold hover:bg-white/30 transition"
               >
                 Cancel
-              </button>
+              </Link>
               <button
                 type="submit"
                 className="px-6 py-3 bg-yellow-300 text-black font-semibold rounded-lg shadow-md hover:bg-yellow-400 transition"
