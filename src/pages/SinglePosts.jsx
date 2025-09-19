@@ -15,6 +15,10 @@ function SinglePosts({setPosts}) {
   const [commentText, setCommentText] = useState('')
 
   useEffect(() => {
+    window.scrollTo({top: 0, behavior: 'smooth'})
+  }, [])
+
+  useEffect(() => {
     setLoading(true)
     fetch(`https://blogpost-server-se8d.onrender.com/posts?slug=${slug}`)
       .then((res) => {
@@ -60,8 +64,9 @@ function SinglePosts({setPosts}) {
         throw new Error('Error deleting job')
       }
       })
-      .then(() => {
+      .then((data) => {
         setPosts((prevPosts) => prevPosts.filter((post) => post.id !== post.id));
+        // setPosts((prev) => [...prev, data])
         toast.success('Job deleted Successfully')
          nav('/posts')
       })

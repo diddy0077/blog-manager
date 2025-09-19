@@ -17,7 +17,7 @@ function PostsDisplay({ posts,isHome }) {
   {postToDisplay.map((post, index) => {
     const color = accentColors[index % accentColors.length]; 
     return (
-      <PostCard post={post} color={color} toggle={toggle} setToggle={setToggle} />
+      <PostCard key={index} post={post} color={color} toggle={toggle} setToggle={setToggle} />
     );
   })}
 </div>

@@ -60,9 +60,10 @@ function PostsPage({ posts, loading }) {
                 Filter by Tag
               </h3>
               <div className="flex flex-wrap gap-2 mb-6">
-                {tag.map((t) => {
+                {tag.map((t, i) => {
                   return (
                     <button
+                      key={i}
                       onClick={() => setSearchParams({ tags: t })}
                       className={`${
                         t === tags
@@ -82,9 +83,10 @@ function PostsPage({ posts, loading }) {
                 Filter by Author
               </h3>
               <div className="flex flex-col gap-2">
-                {authors.map((a) => {
+                {authors.map((a, i) => {
                   return (
                     <button
+                      key={i}
                       onClick={() => setSearchParams({ author: a })}
                       className={`${
                         a === author
